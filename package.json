@@ -1,0 +1,9 @@
+{
+  "name": "solidity-advanced-core",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "forge test",
+    "compile": "forge build"
+  }
+}
